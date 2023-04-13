@@ -1,0 +1,6 @@
+name: SimpleCore
+description: Simple core plugin for Nukkit
+api: ["1.0.0"]
+author: xRookieFight
+version: 1.0.0
+main: org.xrookiefight.simplecore.Main
